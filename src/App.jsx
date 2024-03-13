@@ -1,10 +1,13 @@
-import Footer from "./components/Footer";
-export default function App() {
-   return (
-    <main>
+import Header from "./components/Header";
+import Footer from "./components/footer";
+import "./global.css"
 
-     <footer/>
+export default function app(){
 
-    </main>
-   )
+return(
+  <div>
+    <Header/>
+    <Footer/>
+  </div>
+)
 }
