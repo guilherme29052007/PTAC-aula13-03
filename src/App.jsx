@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import Footer from "./components/footer";
-import "./global.css"
+
+import "./global.css";
 
 export default function app(){
 
