@@ -9,9 +9,10 @@ footer{
     border-bottom: black;
 }
 .header{
-    color: white;
+    color: rgb(245, 5, 5);
 }
 body{
     margin:0;
     padding:0;
 }
+
